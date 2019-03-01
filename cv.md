@@ -2,6 +2,9 @@
 
 
 
+![Image of Ihar](https://ihargit.github.io/rsschool-2019Q1-cv/images/ihar_image.png)
+
+
 ## Name, Surname
 
 Ihar Kharashun
@@ -16,7 +19,7 @@ Ihar Kharashun
 
 ### Email:
 
-* [ihar.kharashun@gmail.com](ihar.kharashun@gmail.com)
+* [mailto](mailto:ihar.kharashun@gmail.com)
 
 
 
