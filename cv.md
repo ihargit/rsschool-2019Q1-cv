@@ -19,7 +19,7 @@ Ihar Kharashun
 
 ### Email:
 
-* [mailto](mailto:ihar.kharashun@gmail.com)
+* [ihar.kharashun@gmail.com](mailto:ihar.kharashun@gmail.com)
 
 
 
