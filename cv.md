@@ -69,9 +69,9 @@ I proceed to invest in my education and am open to new opportunities.
 
 ## Education
 
-* BPML notation and JavaScript from Udemy
-* English language curses from IT Academy, HTP
-* Manual testing curses from EPAM	
+* BPML notation and JavaScript courses from Udemy
+* English language courses from IT Academy, HTP
+* Manual testing courses from EPAM	
 
 
 
