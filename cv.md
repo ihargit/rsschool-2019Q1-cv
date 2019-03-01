@@ -3,11 +3,16 @@
 ## Name, Surname
 Ihar Kharashun
 
-##Contact info
-###LinkedIn profile:  
-*[https://www.linkedin.com/in/ihar-kharashun-6697a2a9](https://www.linkedin.com/in/ihar-kharashun-6697a2a9/)
-###Email:
-*[ihar.kharashun@gmail.com](ihar.kharashun@gmail.com)
+## Contact info
+
+### LinkedIn profile:
+
+* [https://www.linkedin.com/in/ihar-kharashun-6697a2a9](https://www.linkedin.com/in/ihar-kharashun-6697a2a9/)
+
+### Email:
+
+* [ihar.kharashun@gmail.com](ihar.kharashun@gmail.com)
+
 
 ## Summary
 
@@ -19,7 +24,7 @@ The next milestones are:
 1. **To enrich my portfolio** by successfully finish RSSchool JavaScript courses.
 2. **Be contracted** on a web-development position.
 
-I proceed to invest in my education and is open to new opportunities.
+I proceed to invest in my education and am open to new opportunities.
 		
 		
 ## Skills
@@ -32,7 +37,7 @@ I proceed to invest in my education and is open to new opportunities.
 
 ## Code examples
 
-* (https://github.com/ihargit)
+* [https://github.com/ihargit](https://github.com/ihargit)
 
 
 ## Experience
@@ -49,7 +54,7 @@ I proceed to invest in my education and is open to new opportunities.
 * [https://www.upwork.com/freelancers/~01f51300598e6fc039](https://www.upwork.com/freelancers/~01f51300598e6fc039)
 
 
-##Education
+## Education
 
 * BPML notation and JavaScript from Udemy
 * English language curses from IT Academy, HTP
