@@ -443,9 +443,9 @@ footer {
 }
 
 footer p {
+  display: inline-block;
   align-self: center;
   margin: 8px 0;
-  display: inline-block;
   font-size: 0.9rem;
 }
 
