@@ -12,7 +12,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
- html {
+html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -66,7 +66,7 @@ hr {
  */
 
 pre {
-  font-family: monospace, monospace; /* 1 */
+  font-family: monospace; /* 1 */
   font-size: 1em; /* 2 */
 }
 
@@ -109,7 +109,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace; /* 1 */
+  font-family: monospace; /* 1 */
   font-size: 1em; /* 2 */
 }
 
@@ -408,7 +408,7 @@ main aside nav {
 }
 
 main aside ul {
-  padding-inline-start: 0;
+  padding-left: 0;
 }
 
 main aside ul li {
@@ -419,8 +419,8 @@ main aside ul li {
 
 main aside ul li a {
   color: #457dbd;
-  #0366d6
 }
+
 main aside ul li a:hover {
   color: #0366d6;
 }
